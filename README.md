@@ -1,2 +1,2 @@
 # My-Captain-Java-
-Task 1
+My submissions for Java package in MyCaptain
